@@ -1,0 +1,290 @@
+{
+  "collection": {
+    "items": [
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA04921/PIA04921~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "This image is from NASA Galaxy Evolution Explorer is an observation of the large galaxy in Andromeda, Messier 31. The Andromeda galaxy is the most massive in the local group of galaxies that includes our Milky Way.",
+            "title": "Andromeda Galaxy",
+            "date_created": "2003-12-10T22:41:32Z",
+            "keywords": [
+              "Galaxy Evolution Explorer GALEX"
+            ],
+            "secondary_creator": "NASA/JPL/California Institute of Technology",
+            "nasa_id": "PIA04921",
+            "media_type": "image",
+            "description_508": "This image is from NASA Galaxy Evolution Explorer is an observation of the large galaxy in Andromeda, Messier 31. The Andromeda galaxy is the most massive in the local group of galaxies that includes our Milky Way.",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA04921/collection.json"
+      },
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA04634/PIA04634~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "NASA Galaxy Evolution Explorer took this ultraviolet color image of the galaxy NGC5474 on June 7, 2003. NGC5474 is located 20 million light-years from Earth and is within a group of galaxies dominated by the Messier 101 galaxy. Star formation in this galaxy shows some evidence of a disturbed spiral pattern, which may have been induced by tidal interactions with Messier 101.  http://photojournal.jpl.nasa.gov/catalog/PIA04634",
+            "title": "Galaxy NGC5474",
+            "date_created": "2003-07-25T16:20:14Z",
+            "keywords": [
+              "Galaxy Evolution Explorer GALEX",
+              "NGC5474"
+            ],
+            "secondary_creator": "NASA/JPL/Caltech",
+            "nasa_id": "PIA04634",
+            "media_type": "image",
+            "description_508": "NASA Galaxy Evolution Explorer took this ultraviolet color image of the galaxy NGC5474 on June 7, 2003. NGC5474 is located 20 million light-years from Earth and is within a group of galaxies dominated by the Messier 101 galaxy.",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA04634/collection.json"
+      },
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA07906/PIA07906~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "This ultraviolet image from NASA Galaxy Evolution Explorer is of a small area of the Virgo Cluster of galaxies.  http://photojournal.jpl.nasa.gov/catalog/PIA07906",
+            "title": "Virgo Galaxy Cluster",
+            "date_created": "2005-05-05T20:19:08Z",
+            "keywords": [
+              "Virgo Galaxy Cluster",
+              "Galaxy Evolution Explorer GALEX"
+            ],
+            "secondary_creator": "NASA/JPL-Caltech/SSC",
+            "nasa_id": "PIA07906",
+            "media_type": "image",
+            "description_508": "This ultraviolet image from NASA Galaxy Evolution Explorer is of a small area of the Virgo Cluster of galaxies. ",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA07906/collection.json"
+      },
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA04623/PIA04623~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "This ultraviolet color image of the galaxy UGC10445 was taken by NASA Galaxy Evolution Explorer on June 7 and June 14, 2003. UGC10445 is a spiral galaxy located 40 million light-years from Earth.  http://photojournal.jpl.nasa.gov/catalog/PIA04623",
+            "title": "Galaxy UGC10445",
+            "date_created": "2003-07-25T16:11:22Z",
+            "keywords": [
+              "Galaxy Evolution Explorer GALEX"
+            ],
+            "secondary_creator": "NASA/JPL/Caltech",
+            "nasa_id": "PIA04623",
+            "media_type": "image",
+            "description_508": "This ultraviolet color image of the galaxy UGC10445 was taken by NASA Galaxy Evolution Explorer on June 7 and June 14, 2003. UGC10445 is a spiral galaxy located 40 million light-years from Earth.",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA04623/collection.json"
+      },
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA04635/PIA04635~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "NASA Galaxy Evolution Explorer took this ultraviolet color image of the galaxy NGC5962 on June 7, 2003. This spiral galaxy is located 90 million light-years from Earth.  http://photojournal.jpl.nasa.gov/catalog/PIA04635",
+            "title": "Galaxy NGC5962",
+            "date_created": "2003-07-25T16:20:17Z",
+            "keywords": [
+              "Galaxy Evolution Explorer GALEX",
+              "NGC5962"
+            ],
+            "secondary_creator": "NASA/JPL/Caltech",
+            "nasa_id": "PIA04635",
+            "media_type": "image",
+            "description_508": "NASA Galaxy Evolution Explorer took this ultraviolet color image of the galaxy NGC5962 on June 7, 2003. This spiral galaxy is located 90 million light-years from Earth.",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA04635/collection.json"
+      },
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA04633/PIA04633~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "This is an ultraviolet color image of the galaxy NGC5398 taken by NASA Galaxy Evolution Explorer on June 7, 2003. NGC5398 is a barred spiral galaxy located 60 million light-years from Earth. The star formation is concentrated in the two bright regions of the image.  http://photojournal.jpl.nasa.gov/catalog/PIA04633",
+            "title": "Galaxy NGC5398",
+            "date_created": "2003-07-25T16:20:12Z",
+            "keywords": [
+              "Galaxy Evolution Explorer GALEX",
+              "NGC5398"
+            ],
+            "secondary_creator": "NASA/JPL/Caltech",
+            "nasa_id": "PIA04633",
+            "media_type": "image",
+            "description_508": "This is an ultraviolet color image of the galaxy NGC5398 taken by NASA Galaxy Evolution Explorer on June 7, 2003. NGC5398 is a barred spiral galaxy located 60 million light-years from Earth.",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA04633/collection.json"
+      },
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA15656/PIA15656~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "Evidence from NASA Galaxy Evolution Explorer supports the long-held notion that many galaxies begin life as smaller spirals before transforming into larger, elliptical-shaped galaxies.",
+            "title": "Portrait of a Galaxy Life",
+            "date_created": "2007-11-14T01:25:51Z",
+            "keywords": [
+              "Galaxy Evolution Explorer GALEX"
+            ],
+            "secondary_creator": "NASA/JPL-Caltech/CTIO/Las Campanas/Palomar",
+            "nasa_id": "PIA15656",
+            "media_type": "image",
+            "description_508": "Evidence from NASA Galaxy Evolution Explorer supports the long-held notion that many galaxies begin life as smaller spirals before transforming into larger, elliptical-shaped galaxies.",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA15656/collection.json"
+      },
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA04629/PIA04629~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "This image of the spiral galaxy Messier 83 was taken by NASA's Galaxy Evolution Explorer on June 7, 2003. Located 15 million light years from Earth and known as the Southern Pinwheel Galaxy, Messier 83 displays significant amounts of ultraviolet emissions far from the optically bright portion of the galaxy. It is also known to have an extended hydrogen disc that appears to radiate a faint ultraviolet emission. The red stars in the foreground of the image are Milky Way stars.  http://photojournal.jpl.nasa.gov/catalog/PIA04629",
+            "title": "Galaxy Messier 83",
+            "date_created": "2003-07-25T16:47:29Z",
+            "keywords": [
+              "Galaxy Evolution Explorer GALEX",
+              "Messier 83",
+              "spiral galaxy"
+            ],
+            "secondary_creator": "NASA/JPL/Caltech",
+            "nasa_id": "PIA04629",
+            "media_type": "image",
+            "description_508": "This image of the spiral galaxy Messier 83 was taken by NASA Galaxy Evolution Explorer on June 7, 2003. Located 15 million light years from Earth and known as the Southern Pinwheel Galaxy,",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA04629/collection.json"
+      },
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA08646/PIA08646~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "Located 10 million light-years away in the southern constellation Sculptor, the Silver Dollar galaxy, or NGC 253, is one of the brightest spiral galaxies in the night sky as seen in this edge-on view from NASA Galaxy Evolution Explorer.",
+            "title": "Triple Scoop from Galaxy Hunter",
+            "date_created": "2006-07-28T17:43:13Z",
+            "keywords": [
+              "Galaxy Evolution Explorer GALEX"
+            ],
+            "secondary_creator": "NASA/Caltech-JPL",
+            "nasa_id": "PIA08646",
+            "media_type": "image",
+            "description_508": "Located 10 million light-years away in the southern constellation Sculptor, the Silver Dollar galaxy, or NGC 253, is one of the brightest spiral galaxies in the night sky as seen in this edge-on view from NASA Galaxy Evolution Explorer.",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA08646/collection.json"
+      },
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA20695/PIA20695~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "The galaxy UGC 1382 has been revealed to be far larger and stranger than previously thought. Astronomers relied on a combination of ground-based and space telescopes to uncover the true nature of this \"Frankenstein galaxy.\" The composite image shows the same galaxy as viewed with different instruments. The component images are also available.  In the image at left, UGC 1382 appears to be a simple elliptical galaxy, based on optical data from the Sloan Digital Sky Survey (SDSS). But spiral arms emerged when astronomers incorporated ultraviolet data from the Galaxy Evolution Explorer (GALEX) and deep optical data from SDSS, as seen in the middle image. Combining that with a view of low-density hydrogen gas (shown in green), detected at radio wavelengths by the Very Large Array, scientists discovered that UGC 1382 is a giant, and one of the largest isolated galaxies known.  GALEX in particular was able detect very faint features because it operated from space, which is necessary for UV observations because ultraviolet light is absorbed by the Earth's atmosphere. Astronomers also used Stripe 82 of SDSS, a small region of sky where SDSS imaged the sky 80 times longer than the original standard SDSS survey. This enabled optical detection of much fainter features as well.  http://photojournal.jpl.nasa.gov/catalog/PIA20695",
+            "title": "Frankenstein Galaxy",
+            "date_created": "2016-07-11T15:50:52Z",
+            "keywords": [
+              "Galaxy Evolution Explorer GALEX"
+            ],
+            "secondary_creator": "NASA/JPL/Caltech/SDSS/NRAO",
+            "nasa_id": "PIA20695",
+            "media_type": "image",
+            "description_508": "NASA's GALEX reveals the true nature of UGC 1382, dubbed the Frankenstein galaxy. Scientists have discovered that UGC 1382 is a giant, and one of the largest isolated galaxies known.",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA20695/collection.json"
+      },
+      {
+        "links": [
+          {
+            "render": "image",
+            "rel": "preview",
+            "href": "https://images-assets.nasa.gov/image/PIA04624/PIA04624~thumb.jpg"
+          }
+        ],
+        "data": [
+          {
+            "description": "This image of the active galaxy Centaurus A was taken by NASA's Galaxy Evolution Explorer on June 7, 2003. The galaxy is located 30 million light-years from Earth and is seen edge on, with a prominent dust lane across the major axis. In this image the near ultraviolet emission is represented as green, and the far ultraviolet emission as blue. The galaxy exhibits jets of high energy particles, which were traced by the X-ray emission and measured by NASA's Chandra X-ray Observatory. These X-ray emissions are seen as red in the image. Several regions of ultraviolet emission can be seen where the jets of high energy particles intersect with hydrogen clouds in the upper left corner of the image. The emission shown may be the result of recent star formation triggered by the compression of gas by the jet.  http://photojournal.jpl.nasa.gov/catalog/PIA04624",
+            "title": "Galaxy Centaurus A",
+            "date_created": "2003-07-25T16:19:53Z",
+            "keywords": [
+              "Galaxy Evolution Explorer GALEX",
+              "Centaurus A"
+            ],
+            "secondary_creator": "NASA/JPL/Caltech",
+            "nasa_id": "PIA04624",
+            "media_type": "image",
+            "description_508": "This image of the active galaxy Centaurus A was taken by NASA Galaxy Evolution Explorer on June 7, 2003. The galaxy is located 30 million light-years from Earth and is seen edge on, with a prominent dust lane across the major axis.",
+            "center": "JPL"
+          }
+        ],
+        "href": "https://images-assets.nasa.gov/image/PIA04624/collection.json"
+      }
+    ],
+    "version": "1.0",
+    "href": "https://images-api.nasa.gov/search?q=galaxy&media_type=image"
+  }
+}
