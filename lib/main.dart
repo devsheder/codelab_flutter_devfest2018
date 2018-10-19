@@ -1,7 +1,78 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(new MyApp());
+class MyAppBar extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return new MaterialApp(
+      title: 'Flutter Galaxy',
+      home: new Galaxies(),
+    );
+  }
+}
 
+class GalaxiesState extends State<Galaxies> {
+  final List<String> _galaxies = ["Milky Way Galaxy", "Andromeda Galaxy", "Black Eye Galaxy", "Galaxy UGC10445"];
+  final TextStyle _biggerFont = const TextStyle(fontSize: 18.0);
+
+  @override
+  Widget build(BuildContext context) {
+    return new Scaffold (
+      appBar: new AppBar(
+        title: new Text('Flutter Galaxy'),
+      ),
+      body: _buildGalaxies(),
+    );
+  }
+
+  Widget _buildGalaxies() {
+    return new ListView.builder(
+        padding: const EdgeInsets.all(16.0),
+        itemCount: _galaxies.length * 2,
+        itemBuilder: (BuildContext _context, int i) {
+          // Add a one-pixel-high divider on odd row
+          if (i.isOdd) return new Divider();
+          // Else build a galaxy row
+          final int index = i ~/ 2;
+          return _buildRow(_galaxies[index]);
+        }
+    );
+  }
+
+  Widget _buildRow(String galaxy) {
+    return new ListTile(
+      title: new Text(
+        galaxy,
+        style: _biggerFont,
+      ),
+    );
+  }
+
+
+}
+class Galaxies extends StatefulWidget {
+  @override
+  GalaxiesState createState() => new GalaxiesState();
+}
+
+
+void main() {
+  runApp(new MyAppBar());
+}
+
+/*
+void main() {
+  runApp(
+    new Center(
+      child: new Text(
+        'Hello, world!',
+        textDirection: TextDirection.ltr,
+      ),
+    ),
+  );
+}*/
+
+/*
+void main() => runApp(new MyApp());
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
@@ -17,7 +88,7 @@ class MyApp extends StatelessWidget {
         // "hot reload" (press "r" in the console where you ran "flutter run",
         // or press Run > Flutter Hot Reload in IntelliJ). Notice that the
         // counter didn't reset back to zero; the application is not restarted.
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
       home: new MyHomePage(title: 'Flutter Demo Home Page'),
     );
@@ -107,3 +178,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+*/
