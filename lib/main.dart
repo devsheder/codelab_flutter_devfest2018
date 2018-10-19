@@ -42,12 +42,42 @@ class GalaxiesState extends State<Galaxies> {
   }
 
   Widget _buildRow(Galaxy galaxy) {
-    return new ListTile(
-      title: new Text(
-        galaxy.title,
-        style: _biggerFont,
+    return InkWell(
+      borderRadius: BorderRadius.circular(8.0),
+      onTap: () => _navigateToGalaxy(context, galaxy),
+      child: new ListTile(
+          title: new Text(
+            galaxy.title,
+            style: _biggerFont,
+          ),
+          leading: Container(
+            width: 50.0,
+            height: 50.0,
+            decoration: new BoxDecoration(
+              shape: BoxShape.circle,
+              image: new DecorationImage(
+                fit: BoxFit.fill,
+                image: NetworkImage(galaxy.previewHref),
+              ),
+            ),
+          )
       ),
     );
+  }
+
+  void _navigateToGalaxy(BuildContext context, Galaxy galaxy) {
+    Navigator.of(context).push(MaterialPageRoute<Null>(
+      builder: (BuildContext context) {
+        return Scaffold(
+          appBar: AppBar(
+            elevation: 1.0,
+            title: Text(galaxy.title),
+            centerTitle: true,
+          ),
+          body: new Text(galaxy.description),
+        );
+      },
+    ));
   }
 
   @override
